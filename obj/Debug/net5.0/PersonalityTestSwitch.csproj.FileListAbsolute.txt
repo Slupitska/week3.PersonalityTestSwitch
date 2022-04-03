@@ -1,0 +1,16 @@
+C:\Users\slupi\source\repos\PersonalityTestSwitch\obj\Debug\net5.0\PersonalityTestSwitch.csproj.AssemblyReference.cache
+C:\Users\slupi\source\repos\PersonalityTestSwitch\obj\Debug\net5.0\PersonalityTestSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slupi\source\repos\PersonalityTestSwitch\obj\Debug\net5.0\PersonalityTestSwitch.AssemblyInfoInputs.cache
+C:\Users\slupi\source\repos\PersonalityTestSwitch\obj\Debug\net5.0\PersonalityTestSwitch.AssemblyInfo.cs
+C:\Users\slupi\source\repos\PersonalityTestSwitch\obj\Debug\net5.0\PersonalityTestSwitch.csproj.CoreCompileInputs.cache
+C:\Users\slupi\source\repos\PersonalityTestSwitch\bin\Debug\net5.0\PersonalityTestSwitch.exe
+C:\Users\slupi\source\repos\PersonalityTestSwitch\bin\Debug\net5.0\PersonalityTestSwitch.deps.json
+C:\Users\slupi\source\repos\PersonalityTestSwitch\bin\Debug\net5.0\PersonalityTestSwitch.runtimeconfig.json
+C:\Users\slupi\source\repos\PersonalityTestSwitch\bin\Debug\net5.0\PersonalityTestSwitch.runtimeconfig.dev.json
+C:\Users\slupi\source\repos\PersonalityTestSwitch\bin\Debug\net5.0\PersonalityTestSwitch.dll
+C:\Users\slupi\source\repos\PersonalityTestSwitch\bin\Debug\net5.0\ref\PersonalityTestSwitch.dll
+C:\Users\slupi\source\repos\PersonalityTestSwitch\bin\Debug\net5.0\PersonalityTestSwitch.pdb
+C:\Users\slupi\source\repos\PersonalityTestSwitch\obj\Debug\net5.0\PersonalityTestSwitch.dll
+C:\Users\slupi\source\repos\PersonalityTestSwitch\obj\Debug\net5.0\ref\PersonalityTestSwitch.dll
+C:\Users\slupi\source\repos\PersonalityTestSwitch\obj\Debug\net5.0\PersonalityTestSwitch.pdb
+C:\Users\slupi\source\repos\PersonalityTestSwitch\obj\Debug\net5.0\PersonalityTestSwitch.genruntimeconfig.cache
